@@ -1,2 +1,2 @@
 # Szymon Dudek
-**'Computer Science Student'**
+**Computer Science Student**
