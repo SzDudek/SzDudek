@@ -1,7 +1,7 @@
 # Szymon Dudek <font size = "2">
 ### About Me 
 ---
-  
+
 ### Languages and Tools 
 ---
   
