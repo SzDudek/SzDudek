@@ -5,6 +5,6 @@
 ### Languages and Tools 
 ---
   
-### Contact me
+### Contact me:
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2>" />](https://www.youtube.com/)&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335" />](mailto:simod2002@gmail.com)
