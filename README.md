@@ -1,7 +1,7 @@
 # Szymon Dudek
 ### About Me 
 ---
-I am a student in 2nd year of Bachelor's degree, major in Computer Science. I am on persuit of getting an internship and first employment in IT. Currently I am focused on expanding my knowledge in the field of C++ and Java programming languages. Moreover, I am learning the basics of data base management. 
+I am a student in 2nd year of Bachelor's degree, major in Computer Science. I am on persuit of getting an internship and first employment in IT. My most essential goal is to become a software developer with the wide range of languages, frameworks and tools. Currently I am focused on expanding my knowledge in the field of C++ and Java programming languages. Moreover, I am learning the basics of data base management. 
 
 ### Languages and Tools 
 ---
