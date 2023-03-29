@@ -1,9 +1,9 @@
 # Szymon Dudek
 ### About Me 
 ---
-I am a student in 2nd year of Bachelor's degree, major in Computer Science. I am in persuit of getting an internship and first employment in IT. 
-My most essential goal is to become a software developer with a wide range of languages, frameworks and tools. </br>I enjoy learning new technologies and things. 
-I pay a lot of attention to the quality of my code. I like to work in a group, share my ideas and knowledge. Currently I am focused on improving my skills in the field of C++ and Java programming languages. Moreover, I am studying the basics of database management. 
+I am a student in 2nd year of my Bachelor's degree, majoring in Computer Science. I am in pursuit of getting an internship and my first employment in IT. 
+My most essential goal is to become a software developer with a wide range of languages, frameworks, and tools. </br>I enjoy learning new technologies and things. 
+I pay a lot of attention to the quality of my code. I like to work in a group and share my ideas and knowledge. Currently, I am focused on improving my skills in the field of C++ and Java programming languages. Moreover, I am studying the basics of database management. 
 
 ### Languages and Tools 
 ---
