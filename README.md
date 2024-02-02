@@ -1,7 +1,7 @@
 # Szymon Dudek
 ### About Me 
 ---
-I am a student in 2nd year of my Bachelor's degree, majoring in Computer Science. My most essential goal is to become a software developer with a wide range of languages, frameworks, and tools. I enjoy learning new technologies and things. I pay a lot of attention to the quality of my code. I like to work in a group and share my ideas and knowledge. Currently, I am focused on improving my skills in the field of C++. Moreover, I am studying the basics of database management. 
+I am a student in 3rd year of my Bachelor's degree, majoring in Computer Science. My most essential goal is to become a software developer with a wide range of languages, frameworks, and tools. I enjoy learning new technologies and things. I pay a lot of attention to the quality of my code. I like to work in a group and share my ideas and knowledge. Currently, I am focused on improving my skills in the field of C++. Moreover, I am studying the basics of database management. 
 
 ### Languages and Tools 
 ---
