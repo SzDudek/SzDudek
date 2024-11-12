@@ -9,4 +9,4 @@ I am a student in 3rd year of my Bachelor's degree, majoring in Computer Science
 
 ### Contact me
 ---
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2>" />](https://www.linkedin.com/in/szymon-dudek-14b47326a/)&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335" />](mailto:simod2002@gmail.com)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/szymon-dudek-14b47326a/)&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />](mailto:simod2002@gmail.com)
